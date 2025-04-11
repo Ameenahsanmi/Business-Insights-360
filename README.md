@@ -1,11 +1,11 @@
 # Power BI Business Insights 360
-![Alt Text](https://github.com/Ameenahsanmi/Business-Insights-360/blob/07812078fef21596dc9d49892e7790b4f7e1539c/Images/shot1.png)
 
 ## Overview
 This project highlights the development of a **360-degree Business Intelligence solution** for AtliQ, a leading electronic company in the global consumer market. The project was focused on enhancing decision-making capabilities across all operational domains by transitioning from Excel-based analytics to a robust **Power BI dashboard**.
 
 **Power BI Live Dashboard**: [View Here](https://tinyurl.com/49ac36cj)
 
+![Alt Text](https://github.com/Ameenahsanmi/Business-Insights-360/blob/07812078fef21596dc9d49892e7790b4f7e1539c/Images/shot1.png)
 
 ## Problem Statement
 AtliQ, after expanding globally, experienced challenges in managing complex business operations, particularly in Latin America. The company relied heavily on Excel files for analytics, leading to inefficiencies and significant business losses.
