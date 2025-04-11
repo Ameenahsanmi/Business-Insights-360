@@ -3,7 +3,7 @@
 ## Overview
 This project highlights the development of a **360-degree Business Intelligence solution** for AtliQ, a leading electronic company in the global consumer market. The project was focused on enhancing decision-making capabilities across all operational domains by transitioning from Excel-based analytics to a robust **Power BI dashboard**.
 
-**Power BI Live Dashboard**: [View Here](https://tinyurl.com/PowerBILiveDashboard)
+**Power BI Live Dashboard**: [View Here](https://tinyurl.com/49ac36cj)
 
 
 ## Problem Statement
